@@ -5,7 +5,7 @@
     <name>Deck Plus</name>
     <summary>New deck application for better kanban experience</summary>
     <description><![CDATA[This application is fork of official deck application. It has features which my employeer asked]]></description>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <licence>agpl</licence>
     <author mail="muharremkackin@gmail.com" >Muharrem Kaçknı</author>
     <namespace>DeckPlus</namespace>
