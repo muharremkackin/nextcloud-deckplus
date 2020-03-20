@@ -1,0 +1,15 @@
+{
+    "name": "Deck Plus",
+    "description": "New deck application for better kanban experience",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Muharrem Kaçknı"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}

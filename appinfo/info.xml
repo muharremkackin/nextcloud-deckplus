@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>deckplus</id>
+    <name>Deck Plus</name>
+    <summary>New deck application for better kanban experience</summary>
+    <description><![CDATA[This application is fork of official deck application. It has features which my employeer asked]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="muharremkackin@gmail.com" >Muharrem Kaçknı</author>
+    <namespace>DeckPlus</namespace>
+    <category>organization</category>
+    <bugs>https://github.com/muharremkackin/nextcloud-deckplus/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="15" max-version="15"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Deck Plus</name>
+            <route>deckplus.page.index</route>
+        </navigation>
+    </navigations>
+</info>
