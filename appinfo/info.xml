@@ -12,6 +12,10 @@
     <category>organization</category>
     <bugs>https://github.com/muharremkackin/nextcloud-deckplus/issues</bugs>
     <dependencies>
+        <php min-version="7.2"/>
+        <database min-version="9.4">pgsql</database>
+        <database>sqlite</database>
+        <database min-version="5.5">mysql</database>
         <nextcloud min-version="18" max-version="18"/>
     </dependencies>
     <navigations>
